@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dsbarexp.wav</file>
+        <file>dsgetpow.wav</file>
+        <file>dsitemup.wav</file>
+        <file>dspistol.wav</file>
+        <file>dsplpain.wav</file>
+        <file>dsrlaunc.wav</file>
+        <file>dsswtchn.wav</file>
+        <file>drone.png</file>
+        <file>face_normal.png</file>
+        <file>face_hurt.png</file>
+        <file>face_critical.png</file>
+        <file>face_rage.png</file>
+        <file>ground.png</file>
+        <file>machine_gun_warm.png</file>
+        <file>machine_gun.png</file>
+        <file>soldier.png</file>
+        <file>tank.png</file>
+        <file>turret_rage.png</file>
+        <file>turret.png</file>
+        <file>machine_gun_overheat.png</file>
+        <file>kamikaze.png</file>
+        <file>base.png</file>
+        <file>dsgldth.wav</file>
+        <file>dstelept.wav</file>
+        <file>music_menu.wav</file>
+        <file>music_game.wav</file>
+        <file>music_gameover.wav</file>
+        <file>music_pause.wav</file>
+    </qresource>
+</RCC>
